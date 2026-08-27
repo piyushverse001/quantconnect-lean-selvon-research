@@ -1,0 +1,12 @@
+# Do not edit manually
+# Configuration for git attributes
+*.min.js linguist-generated
+public/index.html linguist-vendored
+yarn.lock linguist-generated
+*.ico binary
+*.png binary
+*.bat text eol=crlf
+public/*.html linguist-vendored
+*.go linguist-detectable   
+dist/* linguist-vendored
+* text=auto eol=lf
