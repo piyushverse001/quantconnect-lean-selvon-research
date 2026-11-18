@@ -1,0 +1,6 @@
+*.exe
+vendor/
+*.out
+*.dylib
+*.dll
+*.exe~
